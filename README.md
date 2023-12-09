@@ -1,7 +1,7 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/87377917?s=200&v=4" width="200" alt="404NFID Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://himatifunib.org/storage/156/himatif-6000_small.png" width="200" alt="404NFID Logo"></a></p>
 
+# Arsip Surat HIMATIF
 
-## Laravel Surat Menyurat v1
 
 Web app untuk mengelola surat masuk, keluar, serta disposisinya.
 
@@ -171,4 +171,4 @@ Proyek ini menggunakan admin template [Sneat](https://github.com/themeselection/
 ## License / Lisensi
 
 Berlisensi di bawah [MIT license](https://github.com/404NotFoundIndonesia/laravel-surat-menyurat-v1/blob/main/LICENSE).
-# arsip-surat-himatif
+
