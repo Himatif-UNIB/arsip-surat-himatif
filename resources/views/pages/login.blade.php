@@ -32,7 +32,7 @@
     <meta name="description" content=""/>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{asset('sneat/img/favicon/favicon.ico')}}"/>
+    <link rel="icon" type="image/x-icon" href="{{asset('favicon.png')}}"/>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com"/>
@@ -67,7 +67,7 @@
                     <!-- Logo -->
                     <div class="app-brand justify-content-center">
                         <a href="{{ route('home') }}" class="app-brand-link gap-2">
-                            <img src="{{ asset('logo-black.png') }}" alt="{{ config('app.name') }}" srcset="" width="75px">
+                            <img src="{{ asset('favicon.png') }}" alt="{{ config('app.name') }}" srcset="" width="75px">
                         </a>
                     </div>
 
